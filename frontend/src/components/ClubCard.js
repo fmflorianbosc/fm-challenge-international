@@ -1,0 +1,1 @@
+import React from 'react'; const ClubCard = () => <div>Card</div>; export default ClubCard;
